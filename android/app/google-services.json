@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738012985272",
+    "project_id": "pushnewnotifications",
+    "storage_bucket": "pushnewnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738012985272:android:f8b5dd49700df9d8e9014d",
+        "android_client_info": {
+          "package_name": "com.otpdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA6sLtfnvjp2G_XydOmeyxIe7_z1tWBUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
